@@ -1,3 +1,3 @@
 # Calculator
 Calculator in Java
-![The Calculator are beautiful!](Calculator.jpg "Calculator")
+![The Calculator are beautiful!](Calculator.png "Calculator")
